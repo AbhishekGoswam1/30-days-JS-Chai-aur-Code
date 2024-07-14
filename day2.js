@@ -1,3 +1,6 @@
+// This is day 2 of "30 days JavaScript challenge"
+// and today's tasks/activities are on "Operators"
+
 //Activity 1: Arithmetic Operations
 let num1 = 30;
 let num2 = 20;
