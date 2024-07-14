@@ -13,3 +13,17 @@
 - Value Reassigning demo
 
 
+## Day 2
+### On the second day of this challenge, we focused on practicing code related to "Operators".
+### These are the following tasks that I completed on day 2:
+1. **Task 1:** Arithmetic Operators
+2. **Task 2:** Assignment Operators
+3. **Task 3:** Comparison Operators
+4. **Task 4:** Logical Operators
+5. **Task 5:** Ternary Operator
+6. **Task 6:** Increment and Decrement Operators
+
+#### Feature Request:
+- Arithmetic Operators Script
+- Comparison and Logical Operators Script
+- Ternary Operator Script
