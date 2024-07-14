@@ -9,7 +9,7 @@ const boolValue = true;
 console.log(boolValue);
 
 //Activity 3: Data Types 
-console.log(typeof(num1));
+console.log(typeof num1);
 console.log(typeof(string1));
 console.log(typeof(boolValue));
 
@@ -28,4 +28,21 @@ console.log('new value: ' + variable2);
 
 //Activity 5: Understanding const keyword
 const constant1 = 10;
-//constant1 = 4; Gives error because we can not change constant values
+// constant1 = 4; 
+//Gives error because we can not change constant values
+
+//Feature Request:
+var num = 101;
+const name = 'Abhishek';
+let isSignedIn = true;
+const details = {
+    course: 'MCA',
+    year: '2nd'
+};
+const studName = ['Abhishek', 'Rohit', 'Harsh'];
+
+console.log(`Value of num variable: ${num} and its data type: ${typeof(num)}`);
+console.log(`Value of name variable: ${name} and its data type: ${typeof(name)}`);
+console.log(`Value of isSignedIn variable: ${isSignedIn} and its data type: ${typeof(isSignedIn)}`);
+console.log(`Value of details variable: ${Object.values(details)} and its data type: ${typeof(details)}`);
+console.log(`Value of studName variable: ${studName} and its data type: ${typeof(studName)}`);
