@@ -1,6 +1,7 @@
 // This is day 1 of "30 days JavaScript challenge"
 // and today's tasks/activities are on "Variables and Data types"
 
+
 //Activity 1: Variable Declaration
 var num1 = 20;
 console.log(num1);
