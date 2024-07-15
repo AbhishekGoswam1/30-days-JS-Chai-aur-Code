@@ -29,7 +29,7 @@
 - Comparison and Logical Operators Script
 - Ternary Operator Script
 
-## Day 2
+## Day 3
 ### On the third day of this challenge, we focused on practicing code related to "Control Structures/Statements".
 ### These are the following tasks that I completed on day 3:
 1. **Task 1:** If-Else Statements
