@@ -1,4 +1,5 @@
 # 30 Days JavaScript Challenge (by Chai aur Code)
+
 ## Day 1
 ### On the first day of this challenge, we focused on practicing code related to "Variables and Data Types".
 ### These are the following tasks that I completed on day 1:
@@ -27,3 +28,19 @@
 - Arithmetic Operators Script
 - Comparison and Logical Operators Script
 - Ternary Operator Script
+
+## Day 2
+### On the third day of this challenge, we focused on practicing code related to "Control Structures/Statements".
+### These are the following tasks that I completed on day 3:
+1. **Task 1:** If-Else Statements
+2. **Task 2:** Nested If-Else Statements
+3. **Task 3:** Switch Cases
+4. **Task 4:** Conditional (Ternary) Operators
+5. **Task 5:** Combining Conditions
+
+#### Feature Request:
+- Script to check if number is positive, negative or zero.
+- Script to check if a person is eligible to vote or not.
+- Script that uses switch case to print day of the week.
+- Script to assign grade based on score.
+- Script to check if a year is leap year or not.
