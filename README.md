@@ -29,6 +29,7 @@
 - Comparison and Logical Operators Script
 - Ternary Operator Script
 
+
 ## Day 3
 ### On the third day of this challenge, we focused on practicing code related to "Control Structures/Statements".
 ### These are the following tasks that I completed on day 3:
@@ -44,3 +45,20 @@
 - Script that uses switch case to print day of the week.
 - Script to assign grade based on score.
 - Script to check if a year is leap year or not.
+
+
+## Day 4
+### On the fourth day of this challenge, we focused on practicing code related to "Loops".
+### These are the following tasks that I completed on day 4:
+1. **Task 1:** For Loop
+2. **Task 2:** While Loop
+3. **Task 3:** Do While Loop
+4. **Task 4:** Nested Loops
+5. **Task 5:** Loop Control Statements
+
+#### Feature Request:
+- Script to print numbers
+- Script to print multiplication table of a number
+- Script to print Pattern
+- Script to print Sum Calculation
+- Script to print Factorial of a number
