@@ -65,7 +65,7 @@
 
 
 ## Day 5
-### On the fourth day of this challenge, we focused on practicing code related to "Functions".
+### On the fifth day of this challenge, we focused on practicing code related to "Functions".
 ### These are the following tasks that I completed on day 5:
 
 1. **Task 1:** Function Declaration
