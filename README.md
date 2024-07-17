@@ -62,3 +62,21 @@
 - Script to print Pattern
 - Script to print Sum Calculation
 - Script to print Factorial of a number
+
+
+## Day 5
+### On the fourth day of this challenge, we focused on practicing code related to "Functions".
+### These are the following tasks that I completed on day 5:
+
+1. **Task 1:** Function Declaration
+2. **Task 2:** Function Expression
+3. **Task 3:** Arrow Function
+4. **Task 4:** Function Parameters and Default Values
+5. **Task 5:** Higher-Order Functions
+
+#### Feature Request:
+- Script to check a number is even or odd
+- Script to calculate square of a number
+- Script to concatenate strings
+- Script to write arrow function to calculate sum
+- Script to write higher-order function
