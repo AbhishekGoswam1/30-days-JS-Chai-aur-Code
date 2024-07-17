@@ -1,4 +1,4 @@
-// This is day 3 of "30 days JavaScript challenge"
+// This is day 4 of "30 days JavaScript challenge"
 // and today's tasks/activities are on "Loops"
 
 // Loops are used to execute a block of code multiple times.
