@@ -80,3 +80,20 @@
 - Script to concatenate strings
 - Script to write arrow function to calculate sum
 - Script to write higher-order function
+
+
+## Day 6
+### On the sixth day of this challenge, we focused on practicing code related to "Arrays".
+### These are the following tasks that I completed on day 6:
+
+1. **Task 1:** Array Creation and access
+2. **Task 2:** Array methods (basic)
+3. **Task 3:** Array methods (intermediate)
+4. **Task 4:** Array iteration
+5. **Task 5:** Multi-dimensional arrays
+
+#### Feature Request:
+- Script to manipulate array
+- Script to transform array
+- Script to iterate array
+- Script to create and manipulate two-dimensional array
