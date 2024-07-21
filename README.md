@@ -97,3 +97,19 @@
 - Script to transform array
 - Script to iterate array
 - Script to create and manipulate two-dimensional array
+
+
+## Day 7
+### On the seventh day of this challenge, we focused on practicing code related to "Objects".
+### These are the following tasks that I completed on day 7:
+
+1. **Task 1:** Object Creation and access
+2. **Task 2:** Object Methods
+3. **Task 3:** Nested Objects
+4. **Task 4:** The 'this' Keyword
+5. **Task 5:** Object Iteration
+
+#### Feature Request:
+- Script to create a book object add methods to it 
+- Script to define a library object containing an array of book objects
+- Script to demonstrates iteration over an object's properties
