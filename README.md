@@ -113,3 +113,39 @@
 - Script to create a book object add methods to it 
 - Script to define a library object containing an array of book objects
 - Script to demonstrates iteration over an object's properties
+
+
+## Day 8
+### On the eighth day of this challenge, we focused on practicing code related to "ES6+ Features".
+### These are the following tasks that I completed on day 8:
+
+1. **Task 1:** Template Literals
+2. **Task 2:** Destructuring
+3. **Task 3:** Spread and Rest Operators
+4. **Task 4:** Default Parameters
+5. **Task 5:** Enhanced Object Literals
+
+#### Feature Request:
+- Script to demonstrate the use of template literals
+- Script that uses array and object destructuring to constructs values
+- Script to demonstrate the use of Spread and rest operator
+- Script to define a function with default parameters
+- Script to use enhanced object literals to create an object with methods and computed property names
+
+
+## Day 9
+### On the ninth day of this challenge, we focused on practicing code related to "DOM Manipulation".
+### These are the following tasks that I completed on day 9:
+
+1. **Task 1:** Selecting and manipulating elements
+2. **Task 2:** Creating and appending elements
+3. **Task 3:** Removing elements
+4. **Task 4:** Modifying attributes and classes
+5. **Task 5:** Event Handling
+
+#### Feature Request:
+- Script to select an HTML element by its ID and change text content
+- Script to demonstrate creating a new 'div' element and appending it to body
+- Script to select an HTML element and remove it from the DOM
+- Script to change the attribute of an HTML element
+- Script to add event listeners to HTML elements to change their content or style based on user interactions
